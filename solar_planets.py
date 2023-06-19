@@ -9,3 +9,68 @@ cv2.putText(img,
             0.5,
             (255,255,255)
             )
+
+cv2.putText(img,
+            "MERCURY",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "VENUS",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "EARTH",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "MARS",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "JUPITER",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "SATURN",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "URANUS",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
+cv2.putText(img,
+            "NEPTUNE",
+            (20,300),
+            cv2.FONT_HERSHEY_COMPLEX,
+            0.5,
+            (255,255,255)
+            )
+
